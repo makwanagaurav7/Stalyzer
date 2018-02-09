@@ -62,16 +62,6 @@ android:background="#123456"
                 android:text="Sign Up"
                 android:id="@+id/signUpButton"
                 android:textSize="20dp"/>
-            
-            
-            <Button
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="Sign Up"
-                android:id="@+id/signUpButton1"
-                android:textSize="20dp"/>
-
            
         </LinearLayout>
 
